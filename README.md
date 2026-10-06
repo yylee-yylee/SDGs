@@ -1,4 +1,4 @@
 # SDGs
 SDGs
 
-/sdg_01_no_poverty.html
+[01](/sdg_01_no_poverty.html)
